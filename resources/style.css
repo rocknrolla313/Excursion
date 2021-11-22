@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h {
+  font-family: verdana;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a {
+  color: aquamarine;
+}
+ 
+#tent {
+  padding: 10px;
+  align-items: center;
+}
+
+.p {
+  text-align: center;
+}
+
